@@ -11,6 +11,7 @@
 1. Identify the relationships in the system.
 1. Create the entity-relation model.
 1. Create the database relational model.
+1. Identify the data types for the attributes and the entities in the system.
 1. Identify the attributes that might be unique in the system.
 1. Identify the business rules (CRUD Operations).
 
