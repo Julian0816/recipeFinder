@@ -20,9 +20,9 @@
 - **PK**: _Primary Key_
 - **FK**: _Foreign Key_
 - **UQ**: _Unique Atribute_
-- **ED**: _Entidad de datos_ (Data Entity)
-- **EP**: _Entidad Pivote_ (Pivot Data)
-- **EC**: _Entidad Catalogo_ (Catalog Data)
+- **ED**: _Data Entity_
+- **EP**: _Pivot Data_
+- **EC**: _Catalog Data_
 
 # RecipeFinderAPI database design
 
