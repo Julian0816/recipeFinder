@@ -24,7 +24,7 @@
 - **EP**: _Entidad Pivote_ (Pivot Data)
 - **EC**: _Entidad Catalogo_ (Catalog Data)
 
-# RecipeAPI database design
+# RecipeFinderAPI database design
 
 ## List of Entities
 
