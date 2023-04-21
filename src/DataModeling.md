@@ -92,7 +92,7 @@
 - time
 
 
-[//]: # (Complete_relationships)
+[//]: # (Complete_relationships.)
 
 
 ## Tables
