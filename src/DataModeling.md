@@ -43,11 +43,16 @@
 
 - recipe_id **(PK)**
 - title
-- description
-- video
-- rating
+- short_description
+- description 
 - image
 - user_id **(FK)**
+
+### rating **EP**
+
+- raitng_id **(PK)**
+- user_id **(FK)**
+- recipe_id **(FK)**
 
 ### cuisine_types **EC**
 
@@ -61,7 +66,7 @@
 - main_dish_id **(PK)**
 - dish_name
 - image
-- recipe_id **(FK)**
+- cuisine_type_id **(FK)**
 
 ### events **ED**
 
@@ -72,6 +77,19 @@
 - description
 - image
 - user_id **(FK)**
+- cuisine_type_id **(FK)**
+
+### dificulty **EC**
+- dificulty_id **(PK)**
+- level
+
+### cooking_time **(EC)**
+- ct_id
+- time
+
+### preparation_time **(EC)**
+- pt_id
+- time
 
 
 
